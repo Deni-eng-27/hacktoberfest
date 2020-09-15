@@ -33,6 +33,10 @@ class PagesController < ApplicationController
 
   def api_error; end
 
+  def tshirt; end
+
+  def tree; end
+
   private
 
   def all_events
